@@ -1,0 +1,5 @@
+{
+    "name": "Super Hornet with AIM Missile",
+    "details": "A highly detailed military aviation 3D model featuring the F/A-18E Super Hornet fighter jet, fully equipped with wing-mounted AIM missiles. This technical asset captures complex aeronautical design elements including detailed jet intakes, cockpit outlines, wing flaps, and authentic military camouflage textures. The model uses optimized PBR materials to simulate matte military paint, metallic exhaust nozzles, and clear cockpit glass while keeping performance highly efficient for mobile AR rendering. It allows students and aviation enthusiasts to study modern fighter jet mechanics, aerodynamic layouts, and weapon placement interactively in real space. The asset is heavily optimized to compress complex structural geometry into a streamlined mobile format, ensuring lightning-fast loading and smooth interaction inside the InfoScan application.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/super_hornet_aim-missile.glb"
+}

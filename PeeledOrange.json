@@ -1,0 +1,5 @@
+{
+    "name": "Peeled Orange",
+    "details": "This unique and highly detailed 3D model captures a partially Peeled Orange, showcasing both the textured exterior rind and the juicy, fibrous internal fruit segments. The asset realistically separates the rough, porous orange skin from the glistening, translucent pulp texture underneath, utilizing advanced specular and roughness maps to simulate natural moisture. This level of realistic organic detail provides an immersive visual experience for users inspecting food models in augmented reality. The model's topology is streamlined for real-time performance on mobile GPUs, ensuring the intricate pulp details do not cause rendering slowdowns or app crashes. Ideal for nutritional education, interactive culinary displays, and advanced biological studies, it provides an engaging look at natural structures. It loads instantly and performs flawlessly inside the InfoScan application.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/peeled_orange.glb"
+}

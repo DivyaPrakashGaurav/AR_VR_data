@@ -1,0 +1,5 @@
+{
+    "name": "Spirit of Life Sculpture",
+    "details": "A profound and artistic 3D replica of the 'Spirit of Life' Sculpture, capturing expressive human forms, fluid motion, and abstract design concepts. This asset replicates fine fine-art monument details, featuring smooth anatomical curves, dynamic drapes, and an elegant stone or bronze material finish. The digital model uses high-resolution normal maps to capture artistic tool marks, subtle stone weathering, and grain textures without increasing the live polygon count. This ensures that art lovers and students can examine complex sculptural art on mobile devices smoothly. It is perfectly suited for virtual art museums, architectural design planning, and higher educational art courses. Formatted as a lightweight GLB file, it streams smoothly into the InfoScan app, offering an uncompromised cultural viewing experience.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/spirit_of_life_sculpture.glb"
+}

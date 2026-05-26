@@ -1,0 +1,5 @@
+{
+    "name": "Bangles",
+    "details": "This high-quality 3D model showcases an exquisite pair of traditional bangles, blending cultural heritage with modern digital craftsmanship. It is intricately designed to capture fine ornamental patterns, reflections, and metallic luster, making it ideal for jewelry visualization and virtual try-on experiences. The model features optimized 3D geometry alongside lightweight 1K/2K PBR textures to balance stunning visual fidelity with seamless mobile performance. Users can rotate and examine the intricate engravings, stone placements, and surface finishes from any angle. It serves as an excellent asset for e-commerce integration, augmented reality applications, and digital catalogs, allowing users to experience luxury craftsmanship virtually. Optimized specifically for the InfoScan application, it ensures fast loading times over standard network connections without compromising on the realistic aesthetic or causing performance lag on mid-range smartphone devices, delivering an immersive interactive experience.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/bangles.glb"
+}

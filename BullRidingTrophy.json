@@ -1,0 +1,5 @@
+{
+    "name": "Bull Riding Trophy",
+    "details": "This dynamic 3D model represents an intricately detailed Bull Riding Trophy, capturing the high-energy essence and dramatic motion of western rodeo sports. The asset portrays a detailed rider firmly balanced atop a powerful, bucking bull, showcasing realistic muscle tension, fluid movement, and expressive styling. Designed with premium metallic PBR textures, it replicates a polished bronze and gold finish on a solid marble-textured base, reflecting light naturally across its complex surface contours. The geometry has been carefully optimized for real-time mobile AR engines, striking a perfect balance between high visual complexity and efficient rendering performance. Ideal for sports showcases, digital award galleries, or interactive gaming elements, this model allows users to zoom in on the detailed textures and dynamic anatomy. It loads rapidly within the InfoScan application, ensuring smooth frame rates and an impressive interactive user experience.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/bull_riding_trophy.glb"
+}

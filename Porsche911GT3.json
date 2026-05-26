@@ -1,0 +1,5 @@
+{
+    "name": "Porsche 911 GT3",
+    "details": "A premium, ultra-sleek 3D model of the iconic Porsche 911 GT3 sports car, tailored for high-fidelity automotive visualization in real-time environments. The asset captures the aerodynamic contours, aggressive front grille, signature rear wing, and detailed alloy wheels with precision engineering accuracy. It features advanced PBR metallic paint materials that realistically reflect the surrounding environment, along with glossy glass surfaces and textured brake calipers. The model has undergone extensive optimization, reducing complex vehicular geometry into a mobile-friendly polycount while baking fine mechanical details onto efficient texture maps. Ideal for automotive enthusiasts, virtual showrooms, and interactive engineering demonstrations, it allows users to view a supercar at scale in their own environment. It runs seamlessly at a stable frame rate within the InfoScan application framework.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/porsche_911_gt3.glb"
+}

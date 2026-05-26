@@ -1,0 +1,5 @@
+{
+    "name": "Rabbit",
+    "details": "A charming and realistic 3D model of a Rabbit, designed with optimized geometry to simulate soft fur textures and lifelike animal anatomy. The asset captures natural resting posture, expressive ears, and fine facial proportions, making it highly engaging for interactive wildlife education and digital storytelling. Utilizing specialized normal and roughness maps, the model creates the visual illusion of rich, soft fur depth without the massive computational overhead of real-time hair particles. This smart optimization ensures that the animal model renders flawlessly on standard mobile processors without lagging. It is an ideal asset for children's educational apps, virtual zoos, and interactive augmented reality storybooks. The model integrates perfectly into InfoScan, delivering high aesthetic value, low battery consumption, and instantaneous download speeds.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/rabbit.glb"
+}

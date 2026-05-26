@@ -1,0 +1,5 @@
+{
+    "name": "Mango",
+    "details": "A highly realistic 3D model of a ripe Mango, the quintessential tropical fruit, created with vibrant colors and natural organic asymmetry. The asset features a detailed skin texture with subtle color gradients ranging from deep golden yellow to soft blush red, complete with realistic tiny organic specks and natural blemishes. Utilizing professional PBR maps, it simulates a soft organic sheen, making the fruit appear fresh and lifelike when viewed in real-time AR spaces. The model is highly optimized, reducing the geometric load to ensure it runs seamlessly on all smartphone tiers without draining battery or processing power. It is perfect for interactive educational modules, agricultural apps, culinary games, and grocery visualizations. Integrated smoothly into the InfoScan format, this asset streams instantly and offers users an immersive, true-to-life look at nature's produce.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/mango.glb"
+}

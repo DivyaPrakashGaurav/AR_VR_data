@@ -1,0 +1,5 @@
+{
+    "name": "Jewelry Croc",
+    "details": "This unique and avant-garde 3D model features a 'Jewelry Croc'—an artistic ornament that masterfully combines a stylized crocodile form with luxury jewelry elements. The design incorporates intricate pavé diamond settings, polished gold accents, and embedded gemstones along its scales, casting brilliant reflections from every angle. Utilizing specialized PBR textures, the asset realistically replicates the contrast between raw reptilian leather patterns and smooth, ultra-reflective precious metals. It is meticulously optimized for mobile AR platforms, ensuring that the high density of simulated gems does not cause frame rate drops or memory overloads. Ideal for modern jewelry designers, fashion innovation showcases, and interactive art galleries, it lets users rotate and analyze the complex craftsmanship up close. Fully compatible with the InfoScan application structure, it delivers premium, luxury-tier visual fidelity while loading efficiently across mobile networks.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/jewelry_croc.glb"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Ring",
+    "details": "An exquisite 3D jewelry Ring model, crafted specifically for luxury product visualization and interactive virtual AR try-on applications. The model features a highly polished precious metal band holding a brilliantly cut central gemstone, designed to showcase advanced light reflections and specular highlights. The PBR material values are fine-tuned to realistically mimic gold/platinum sheen and diamond clarity, offering a premium shopping experience on mobile displays. To ensure fluid interaction during real-time tracking, the complex facet geometry of the gemstone has been highly optimized to maintain crisp lines without overloading the device GPU. It is an essential asset for modern jewelry e-commerce platforms and fashion design showcases. It streams effortlessly on the InfoScan application, guaranteeing immediate loading and lag-free interaction.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/ring.glb"
+}

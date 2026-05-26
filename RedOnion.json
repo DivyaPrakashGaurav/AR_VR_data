@@ -1,0 +1,5 @@
+{
+    "name": "Red Onion",
+    "details": "A highly accurate 3D model of a fresh Red Onion, showcasing realistic paper-like skin layers and rich purple-magenta color gradients. The asset captures the natural papery texture, dry roots at the base, and glossy surface variations characteristic of fresh root vegetables. By utilizing tailored PBR texturing, the model realistically replicates the slight crisp sheen of the onion's outer layers under varying lighting environments. It is completely optimized for real-time mobile AR, offering a low memory footprint while maintaining exceptional photographic realism for close-range inspection. This asset is incredibly useful for culinary arts training, digital agricultural databases, and interactive grocery shopping platforms. It loads quickly and moves smoothly within the InfoScan app, providing an efficient and lifelike educational asset.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/red_onion.glb"
+}

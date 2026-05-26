@@ -1,0 +1,5 @@
+{
+    "name": "Dragon Fruit",
+    "details": "A highly realistic, photogrammetry-style 3D model of a fresh Dragon Fruit, showcasing vibrant organic details and natural color variations. The asset captures the unique exterior of the pitaya fruit, featuring its characteristic overlapping green-tipped scales and bright pink skin with lifelike accuracy. Utilizing advanced 2K texture maps, the model accurately replicates the organic surface roughness, subtle moisture reflections, and fibrous textures found in real produce. It is optimized to provide an exceptional balance between high-fidelity visuals and mobile-friendly performance, making it perfect for interactive culinary apps, digital grocery platforms, and botanical education. Users can rotate the fruit in AR to study its unique biological structure and vivid appearance under different lighting conditions. Designed for seamless integration into InfoScan, this lightweight GLB file streams instantly without consuming excessive device RAM or causing application lag during interactive sessions.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/dragon_fruit.glb"
+}

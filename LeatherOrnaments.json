@@ -1,0 +1,5 @@
+{
+    "name": "Leather Ornaments",
+    "details": "A high-fidelity 3D model showcasing detailed Leather Ornaments, highlighting the rustic charm and intricate textures of hand-crafted leather goods. The model accurately captures realistic stitch lines, organic surface grain, subtle creasing, and weathered edge wear, giving it a tangible, high-quality feel. With optimized texture mapping and controlled polygon counts, it replicates the natural matte finish and soft specular highlights unique to treated leather materials. This asset is perfect for fashion retail catalogs, interior design visualization, and craft education modules in augmented reality. Users can interactively view the stitching precision, structural assembly, and design patterns from a full 360-degree perspective. It has been formatted specifically for fluid performance on mobile devices within the InfoScan application, minimizing file size to guarantee quick download times and completely lag-free user interaction.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/leather_ornaments.glb"
+}

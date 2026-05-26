@@ -1,0 +1,5 @@
+{
+    "name": "Old Wooden Chair",
+    "details": "This vintage 3D model depicts an Old Wooden Chair, meticulously crafted to showcase the beautiful imperfections of rustic, time-worn furniture. The asset features realistic wood grain textures, worn-down armrests, subtle surface scratches, and realistic lacquer chipping, capturing an authentic historical aesthetic. Utilizing tailored roughness and normal maps, it accurately reflects environmental lighting, giving depth to every crack and joint in the wood. The polygon count is highly optimized for real-time AR engines, enabling users to place the chair in their physical space via smartphone without experiencing performance hiccups. It is an excellent choice for interior design planning, historical virtual tours, and stage-setting in interactive applications. The lightweight GLB format ensures that the asset downloads quickly and operates flawlessly within the InfoScan ecosystem.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/old_wooden_chair.glb"
+}

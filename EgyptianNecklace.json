@@ -1,0 +1,5 @@
+{
+    "name": "Egyptian Necklace",
+    "details": "An elegant and historical 3D model of an Ancient Egyptian Necklace, drawing inspiration from royal pharaonic jewelry pieces discovered in ancient tombs. This digital asset features highly detailed rows of simulated lapis lazuli, turquoise, carnelian beads, and a central gold amulet centerpiece, capturing the vibrant color palette of antiquity. The PBR material setup provides realistic gold reflections, semi-precious stone gloss, and intricate geometric spacing, making it visually compelling for close-up inspections in AR. Optimized for mobile deployment, the complex decorative patterns are baked efficiently onto the textures to prevent performance drops during real-time rendering. It is perfect for fashion history education, museum simulations, and virtual jewelry try-on platforms. The asset loads effortlessly on InfoScan, providing users with an educational, highly detailed look at ancient fashion without straining mobile hardware resources.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/egyptian_necklace.glb"
+}

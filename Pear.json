@@ -1,0 +1,5 @@
+{
+    "name": "Pear",
+    "details": "A true-to-life 3D model of a fresh Pear fruit, capturing organic imperfections, natural shape asymmetry, and realistic texture gradients. The asset showcases a realistic green-yellow skin texture with subtle organic spotting, a realistic wooden stem, and soft surface texturing that reflects light naturally. Built with mobile optimization in mind, the model balances low polygon distribution with rich normal maps to maintain high visual realism without demanding intense GPU processing power. It is highly suited for healthy lifestyle apps, botanical education, interactive cooking applications, and superstore AR catalogs. Users can project the pear onto any flat surface via AR to examine its realistic scale, form, and texture up close. The asset is structured for rapid loading and smooth rotation within the InfoScan app environment.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/pear.glb"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Ornament",
+    "details": "A versatile and highly detailed decorative Ornament 3D model, designed with complex geometric symmetry and elegant aesthetics. This multi-purpose asset features intricate filigree work, smooth curves, and fine engraved details, making it suitable for architectural accents, festive decorations, or luxury product designs. The PBR material setup allows for flexible rendering, accurately capturing reflections, highlights, and micro-shadows along its decorative grooves and polished surfaces. Optimized strictly according to mobile development guidelines, the asset compresses complex geometric data into a highly efficient GLB format to avoid memory overhead on consumer mobile devices. Users can spin, scale, and inspect the ornament interactively in AR to appreciate its design complexity. It functions perfectly within the InfoScan application framework, ensuring immediate loading times and exceptionally fluid interaction.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/ornament.glb"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Pineapple",
+    "details": "A wonderfully detailed 3D model of a Pineapple, capturing the complex, repetitive geometric patterns of its outer skin and the sharp, fibrous crown of leaves. Each individual diamond segment of the fruit's rind is rendered with realistic depth, texture variations, and natural color transitions from deep green to rich golden brown. The spiked leaves feature realistic organic stiffness and thin-edge geometry optimized to prevent rendering artifacts on mobile screens. Despite its visually complex appearance, the asset is heavily optimized to keep file sizes low, enabling smooth streaming and interactive manipulation in mobile AR setups. It is perfectly suited for tropical theme visualizations, educational botany tools, and modern e-commerce fruit displays. The model operates smoothly on InfoScan, ensuring high-fidelity visual presentation alongside immediate loading performance.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/pineapple.glb"
+}

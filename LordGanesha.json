@@ -1,0 +1,5 @@
+{
+    "name": "Lord Ganesha",
+    "details": "A beautifully sculpted 3D idol of Lord Ganesha, designed with deep reverence and artistic precision for spiritual and cultural visualization. This asset replicates a finely detailed traditional idol, capturing smooth facial features, symbolic attributes like the modak and trunk position, and ornate jewelry carvings. The PBR materials simulate a polished brass or sandstone finish, casting soft, realistic shadows across the intricate contours under dynamic lighting conditions. Optimized meticulously for real-time mobile AR, it maintains stunning geometric clarity while staying highly lightweight for quick network deployment. It is ideal for digital festive celebrations, interactive home temple setups, and cultural education applications. Users can rotate the idol to appreciate the balanced symmetry and fine details from all angles, ensuring a respectful, smooth, and high-fidelity rendering experience on the InfoScan mobile platform.",
+    "models": "https://raw.githubusercontent.com/DivyaPrakashGaurav/AR_VR_models/main/lord-ganesha.glb"
+}
